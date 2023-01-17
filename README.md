@@ -1,6 +1,8 @@
 
 Hi 👋, I'm Toluwalase Adejuwon 
-A Web Engineer.
+
+🆚💻A Web Engineer.
+
 🔭 I’m currently working at Tolux001 Solutions
 
 🌱 I do magic with JavaScript and css
