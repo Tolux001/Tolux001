@@ -13,8 +13,9 @@ Hi 👋, I'm Toluwalase Adejuwon
 
 ⚡ Fun fact I love hip-hop, music and tech. Execeptional
 
-Connect with me:
-ToluwalasePeter https://www.linkedin.com/in/adejuwon-toluwalase-660580234
+Connect with me:ToluwalasePeter
+ https://twitter.com/tolux001
+ https://www.linkedin.com/in/adejuwon-toluwalase-660580234
 
 Languages and Tools:
 git javaScript jQuery dart flutter
