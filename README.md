@@ -21,7 +21,7 @@
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
 - Personal website [link](https://www.twitter.com/tolux001)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]()
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.linkedin.com/in/tolux)
 
 <br><br>
 
@@ -106,7 +106,7 @@
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/adejuwon-toluwalase-660580234" target="_blank">
+<a href="https://www.linkedin.com/in/tolux" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Toluwalase-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
