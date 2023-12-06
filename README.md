@@ -21,7 +21,10 @@
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
 - Personal website [link](https://www.twitter.com/tolux001)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.linkedin.com/in/tolux)
+- I’m currently open for an Intern or a new job opportunity
+  -- [My vrtual cv](https://read.cv/tolux001)
+  -- [my resume](https://docs.google.com/document/d/1cAbM9HkQz1-Ir7FjR4CMmeW8xCMpdXnD/export?format=docx&ouid=104419838818212445129&rtpof=true&sd=true)
+  -- [My Cover Letter](https://docs.google.com/document/d/1i-bzVYxjLA7b8T--20gAMFcw37DLPBIe/export?format=docx&ouid=104419838818212445129&rtpof=true&sd=true)
 
 <br><br>
 
