@@ -90,7 +90,6 @@
 <div align="center">
 
 [![Toluwalase's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Tolux001&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Toluwalase's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Tolux001&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 </div>
 
@@ -124,10 +123,6 @@
 
 <br>
 
-[![RepoRater](https://repo-rater.eddiehub.io/api/badge?owner=Tolux001&name=Tolux001)](https://repo-rater.eddiehub.io/rate?owner=EddieHubCommunity&name=RepoRater)
-
-<br>
-
 <li>
 <a href="mailto:toluwalasepeter001@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Tolux001-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
@@ -142,7 +137,11 @@
 <br>
 <br>
 <br>
+<br>
 
+## <b> Repo Rating </b>
+<br>
+[![RepoRater](https://repo-rater.eddiehub.io/api/badge?owner=Tolux001&name=Tolux001)](https://repo-rater.eddiehub.io/rate?owner=EddieHubCommunity&name=RepoRater)
 <div align='center'>
 
 ## <b> 001 </b>
