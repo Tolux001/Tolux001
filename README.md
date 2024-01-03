@@ -17,10 +17,10 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.twitter.com/tolux001)
+- A passionate Front-end developer
+- Playing Chess at spare time
+- Learning Web Development
+- Personal website [link](https://tolux-new-tab-page.vercel.app/)
 - I’m currently open for an Intern or a new job opportunity
   - [My vrtual cv](https://read.cv/tolux001)
   - [my resume](https://docs.google.com/document/d/1cAbM9HkQz1-Ir7FjR4CMmeW8xCMpdXnD/export?format=docx&ouid=104419838818212445129&rtpof=true&sd=true)
