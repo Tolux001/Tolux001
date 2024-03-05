@@ -10,7 +10,7 @@
 
 <br>
 
-<picture> <img align="right" src="./assets/mdImages/Right_Side.gif" width = 50%></picture>
+
 - A passionate Front-end developer
 - Playing Chess at spare time
 - Learning Web Development
