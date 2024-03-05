@@ -10,6 +10,7 @@
 
 <br>
 
+<picture> <img align="right" src="./assets/mdImages/Right_Side.gif" width = 50%></picture>
 - A passionate Front-end developer
 - Playing Chess at spare time
 - Learning Web Development
@@ -21,7 +22,6 @@
   - [My Cover Letter](https://docs.google.com/document/d/1i-bzVYxjLA7b8T--20gAMFcw37DLPBIe/export?format=docx&ouid=104419838818212445129&rtpof=true&sd=true)
   - [LinkedIn](https://www.linkedin.com/in/tolux)
 <br>
-<picture> <img align="center" src="./assets/mdImages/Right_Side.gif" width = 90%></picture>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
