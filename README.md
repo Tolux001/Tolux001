@@ -17,7 +17,7 @@
 - Personal website [link](http://pinkary.com/@Tolux001)
 - I’m currently open for an Intern or a New Job Opportunity
   - [My virtual cv](https://read.cv/tolux001)
-  - [my resume](https://drive.google.com/file/d/11D3c6pq7GCME_lZ30BjOni8yOcleDEQo/view?usp=sharing)
+  - [my resume](https://drive.google.com/file/d/18NCJgQMU52q9t53tJjOjENMcTLo-IH-o/view?usp=drivesdk)
   - [My Cover Letter](https://docs.google.com/document/d/1i-bzVYxjLA7b8T--20gAMFcw37DLPBIe/export?format=docx&ouid=104419838818212445129&rtpof=true&sd=true)
   - [LinkedIn](https://www.linkedin.com/in/tolux)
 <br>
