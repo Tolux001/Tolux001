@@ -4,8 +4,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Toluwalase+Peter+Adejuwon..&hearts;++;Self-Taught+Front-End+Developer;Computer+Science+Student;Chess+Newbie+{1000}+rating;Active+Learner/Researcher;Love+To+Learn+New+Stuffs..<3"></a>
 </p>
 <br>
+
 ## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
 <br>
+
 - A passionate Front-end developer
 - Playing Chess in my spare time
 - Learning Web Development
@@ -16,7 +19,9 @@
   - [My Cover Letter](https://docs.google.com/document/d/1i-bzVYxjLA7b8T--20gAMFcw37DLPBIe/export?format=docx&ouid=104419838818212445129&rtpof=true&sd=true)
   - [LinkedIn](https://www.linkedin.com/in/tolux)
   - [X - formally twitter](https://www.x.com/tolux001)
+
 <br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
