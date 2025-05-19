@@ -15,8 +15,8 @@
 - Personal website [link](http://tolux-portfolio.netlify.app)
 - I’m currently open for an Intern or a New Job Opportunity
   - [My Virtual CV](https://read.cv/tolux001)
-  - [my Resume](https://drive.google.com/file/d/18NCJgQMU52q9t53tJjOjENMcTLo-IH-o/view?usp=drivesdk)
-  - [My Cover Letter](https://docs.google.com/document/d/1i-bzVYxjLA7b8T--20gAMFcw37DLPBIe/export?format=docx&ouid=104419838818212445129&rtpof=true&sd=true)
+  - [my Resume](https://drive.google.com/file/d/1xAuW64pSu784aPNAMVJd00_uIqfEhJ1b/view)
+  - [My Cover Letter](https://drive.google.com/file/d/1KYXxZoFZqmDLA1m8-pRZ9zgXdQkFXTXh/view)
   - [LinkedIn](https://www.linkedin.com/in/tolux)
   - [X - formally twitter](https://www.x.com/tolux001)
 
