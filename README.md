@@ -138,7 +138,7 @@
 ## <b> Repo Rating </b>
 <br>
 
-[![RepoRater](https://repo-rater.eddiehub.io/api/badge?owner=Tolux001&name=Tolux001)](https://repo-rater.eddiehub.io/rate?owner=EddieHubCommunity&name=RepoRater)
+[![RepoRater](https://repo-rater.eddiehub.io/api/badge?owner=Tolux001&name=Tolux001)]
 
 <br>
 
