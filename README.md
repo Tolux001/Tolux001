@@ -1,21 +1,18 @@
 <h1 align="center"><b>Hi , I'm Toluwalase </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Toluwalase+Peter+Adejuwon..&hearts;++;Self-Taught+Front-End+Developer;Computer+Science+Student;Chess+Newbie+{1000}+rating;Active+Learner/Researcher;Love+To+Learn+New+Stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Toluwalase+Peter+Adejuwon..&hearts;++;Software+Developer;Computer+Science+Student;Chess+Newbie+{1000}+rating;Active+Learner/Researcher;Love+To+Learn+New+Stuffs..<3"></a>
 </p>
 <br>
 
 ## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
 <br>
+I'm a software developer who is passionate about making contribution to creating technology that elevates people, and building community. Some technologies I enjoy working with include ReactJs, nextJs, Jamstack(Javascript, API + Markup) and ExpressJs. A repo I creaated for META's frontend developer path on coursera on Jan 3rd 2024 blew up with over 400 forks and 13 stars. I enjoy coding only when I create something exciting or when I resolve a bug/issue I am facing. Creating is fun with choas attached
 
-- A passionate Front-end developer
-- Playing Chess in my spare time
-- Learning Web Development
 - Personal website [link](http://tolux-portfolio.netlify.app)
 - I’m currently open for an Intern or a New Job Opportunity
   - [My Virtual CV](https://read.cv/tolux001)
-  - [my Resume](https://drive.google.com/file/d/1xAuW64pSu784aPNAMVJd00_uIqfEhJ1b/view)
+  - [my Resume](https://drive.google.com/file/d/1OqpCbAWs9pHxikyYEDhpAr2AbY0c_RJY/view?usp=sharing)
   - [My Cover Letter](https://drive.google.com/file/d/1KYXxZoFZqmDLA1m8-pRZ9zgXdQkFXTXh/view)
   - [LinkedIn](https://www.linkedin.com/in/tolux)
   - [X - formally twitter](https://www.x.com/tolux001)
