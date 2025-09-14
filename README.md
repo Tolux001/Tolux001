@@ -13,7 +13,7 @@ I enjoy coding only when I create something exciting or when I resolve a bug/iss
 - Personal website [link](http://tolux-portfolio.netlify.app)
 - I’m currently open for an Intern or a New Job Opportunity
   - [My Virtual CV](https://read.cv/tolux001)
-  - [my Resume](https://drive.google.com/file/d/1OqpCbAWs9pHxikyYEDhpAr2AbY0c_RJY/view?usp=sharing)
+  - [my Resume](https://drive.google.com/file/d/10LeRA3H2yqnHwlgKliccVGqBfZZVux1_/view?usp=sharing)
   - [My Cover Letter](https://drive.google.com/file/d/1KYXxZoFZqmDLA1m8-pRZ9zgXdQkFXTXh/view)
   - [LinkedIn](https://www.linkedin.com/in/tolux)
   - [X - formally twitter](https://www.x.com/tolux001)
