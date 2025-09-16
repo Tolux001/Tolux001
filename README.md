@@ -34,8 +34,7 @@ I enjoy coding only when I create something exciting or when I resolve a bug/iss
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Ruby](https://img.shields.io/badge/Ruby%20-%2314354C.svg?style=for-the-badge&logo=Ruby&logoColor=white)
-
-<br>   
+  
     
 - **Front-End Development**:
 
@@ -46,7 +45,6 @@ I enjoy coding only when I create something exciting or when I resolve a bug/iss
    ![React](https://img.shields.io/badge/React%20-%23327FC7.svg?style=for-the-badge&logo=react&logoColor=white)
    ![Next](https://img.shields.io/badge/Next%20-%23327FC7.svg?style=for-the-badge&logo=next&logoColor=white)
 
-<br>
 
 - **Cloud Hosting**:
 
@@ -55,7 +53,6 @@ I enjoy coding only when I create something exciting or when I resolve a bug/iss
     ![Vercel](https://img.shields.io/badge/Vercel-%23327FC7.svg?style=for-the-badge&logo=vercel&logoColor=white)
     ![Firebase](https://img.shields.io/badge/Firebase-%23327FC7.svg?style=for-the-badge&logo=firebase&logoColor=white)
     
-<br>
 
 - **Softwares and Tools**:
 
@@ -66,7 +63,6 @@ I enjoy coding only when I create something exciting or when I resolve a bug/iss
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) 
 
-<br>
 
 - **Extras**:
 
@@ -74,8 +70,6 @@ I enjoy coding only when I create something exciting or when I resolve a bug/iss
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
 </p>
-
-<br>
 
 -----
 
