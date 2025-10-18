@@ -9,7 +9,7 @@
 I'm a software developer who is passionate about making contribution to creating technology that elevates people, and building community. Some technologies I enjoy working with include ReactJs, nextJs, Jamstack(Javascript, API + Markup) and ExpressJs. 
 A repo I created for <b>META's frontend developer path</b> on coursera on Jan 3rd 2024 blew up with over <b>400 forks and 13 stars</b>.
 I enjoy coding only when I create something exciting or when I resolve a bug/issue I am facing. Creating is fun with choas attached
-
+<br>
 If you are looking for a Frontend Developer to join your team or on a contract, part/Full time basis, I'd love to chat
 
 OR if you are an aspiring Software devloper looking for guidance, I would love to chat as well
