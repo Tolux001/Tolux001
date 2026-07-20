@@ -17,8 +17,8 @@ shoot me a DM !!
 <br>
 - Personal website [link](http://tolux-portfolio.netlify.app)
 - I’m currently open for an Intern or a New Job Opportunity
-  - [My Virtual CV](https://read.cv/tolux001)
-  - [my Resume](https://drive.google.com/file/d/10LeRA3H2yqnHwlgKliccVGqBfZZVux1_/view?usp=sharing)
+  - [My Virtual CV](https://hello.cv/toluwalase-adejuwon-gmcpn)
+  - [my Resume](https://www.tolux001.dev/)
   - [My Cover Letter](https://drive.google.com/file/d/1KYXxZoFZqmDLA1m8-pRZ9zgXdQkFXTXh/view)
   - [LinkedIn](https://www.linkedin.com/in/tolux)
   - [X - formally twitter](https://www.x.com/tolux001)
